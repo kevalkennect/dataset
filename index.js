@@ -1,8 +1,9 @@
-import http from "http";
 import fs, { read } from "fs";
 import * as crypto from "crypto";
 import express from "express";
 import cors from "cors";
+import { Transform } from "stream";
+
 const dataset1 = [];
 const dataset2 = [];
 const dataset3 = [];
@@ -95,11 +96,16 @@ app.get("/", (req, res) => {
   const iv = "bz9Zu4absXF4abk8";
   const cipher = crypto.createCipheriv("aes256", key, iv);
 
-  readStream.on("data", (d) => {
-    const encryptedMessage =
-      cipher.update(d, "utf8", "hex") + cipher.final("hex");
-    res.send(encryptedMessage);
+  const encrypted = new Transform({
+    transform(chunk, encoding, callback) {
+      const encryptedMessage =
+        cipher.update(chunk, "utf8", "hex") + cipher.final("hex");
+      this.push(encryptedMessage);
+      callback();
+    },
   });
+  console.log(encrypted);
+  readStream.pipe(encrypted).pipe(res);
 
   readStream.on("error", function (err) {
     console.log(err);
