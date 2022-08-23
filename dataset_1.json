@@ -1,0 +1,1318 @@
+[
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 48
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 26
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 50
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 34,
+    "qty": 23
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 35,
+    "qty": 49
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 48
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 46
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 22
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 34,
+    "qty": 43
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 32
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 38
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 44
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 34,
+    "qty": 34
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 36
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 34
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 27
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 34,
+    "qty": 49
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 35,
+    "qty": 38
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 23
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 46
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 19
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 41
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 36
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 37
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 31
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 45
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 18
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/3/2022",
+    "doctorId": 34,
+    "qty": 29
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 44
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 46
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 35
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 33
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 36
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 26
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 34,
+    "qty": 24
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 35,
+    "qty": 48
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 40
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 48
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 40
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 34,
+    "qty": 41
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 37
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 25
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 36
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 34,
+    "qty": 19
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 28
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 39
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 46
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 34,
+    "qty": 35
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 35,
+    "qty": 38
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 23
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 44
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 26
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 34,
+    "qty": 37
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 40
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 22
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 40
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 34,
+    "qty": 32
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 24
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 42
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 18
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 34,
+    "qty": 35
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 35,
+    "qty": 34
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 18
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 26
+  },
+  {
+    "egid": "emp_1",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 26
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 21
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 50
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 42
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 24
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 39
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 43
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 34,
+    "qty": 22
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 35,
+    "qty": 35
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 25
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 45
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 41
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 27
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 23
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 21
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 48
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 34
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 50
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 38
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 50
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 30
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 32
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 46
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 32
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 40
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 34
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 28
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 34,
+    "qty": 22
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 37
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 30
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 38
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 34,
+    "qty": 20
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 35,
+    "qty": 28
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 46
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 29
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 42
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 34,
+    "qty": 44
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 33
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 40
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 45
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 40
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 49
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 40
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 34,
+    "qty": 20
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 35,
+    "qty": 38
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 32
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 34
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 43
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 34,
+    "qty": 19
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 42
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 44
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 27
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 34,
+    "qty": 30
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 35,
+    "qty": 45
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 29
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 20
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 19
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 34,
+    "qty": 27
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 38
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 38
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 33
+  },
+  {
+    "egid": "emp_2",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 34,
+    "qty": 48
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 23
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 44
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 30
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 45
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 24
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 21
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/2/2022",
+    "doctorId": 34,
+    "qty": 18
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 40
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 35
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 28
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/3/2022",
+    "doctorId": 34,
+    "qty": 49
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 34
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 38
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 24
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 34,
+    "qty": 32
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 21,
+    "date": "1/4/2022",
+    "doctorId": 35,
+    "qty": 43
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 22
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 31
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 43
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/1/2022",
+    "doctorId": 34,
+    "qty": 19
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 35
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 41
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 28
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/2/2022",
+    "doctorId": 34,
+    "qty": 19
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 19
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 32
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 19
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 43
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 47
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 36
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 34,
+    "qty": 19
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 22,
+    "date": "1/4/2022",
+    "doctorId": 35,
+    "qty": 25
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 28
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 20
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 39
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/1/2022",
+    "doctorId": 34,
+    "qty": 49
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 19
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 25
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 21
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 36
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 45
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 46
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 34,
+    "qty": 20
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/3/2022",
+    "doctorId": 35,
+    "qty": 40
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 50
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 45
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 23,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 23
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 31,
+    "qty": 49
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 32,
+    "qty": 48
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/1/2022",
+    "doctorId": 33,
+    "qty": 36
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 31,
+    "qty": 39
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 32,
+    "qty": 33
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/2/2022",
+    "doctorId": 33,
+    "qty": 29
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 31,
+    "qty": 34
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 32,
+    "qty": 42
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 33,
+    "qty": 41
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/3/2022",
+    "doctorId": 34,
+    "qty": 23
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 31,
+    "qty": 23
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 32,
+    "qty": 45
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 33,
+    "qty": 41
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 34,
+    "qty": 19
+  },
+  {
+    "egid": "emp_3",
+    "skuid": 24,
+    "date": "1/4/2022",
+    "doctorId": 35,
+    "qty": 21
+  }
+]

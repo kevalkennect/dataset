@@ -1,0 +1,62 @@
+[
+  {
+    "skuid": 21,
+    "product": "product_1",
+    "date": "1/1/2022"
+  },
+  {
+    "skuid": 21,
+    "product": "product_1",
+    "date": "2/1/2022"
+  },
+  {
+    "skuid": 21,
+    "product": "product_1",
+    "date": "3/1/2022"
+  },
+  {
+    "skuid": 22,
+    "product": "product_1",
+    "date": "1/1/2022"
+  },
+  {
+    "skuid": 22,
+    "product": "product_1",
+    "date": "2/1/2022"
+  },
+  {
+    "skuid": 22,
+    "product": "product_1",
+    "date": "3/1/2022"
+  },
+  {
+    "skuid": 21,
+    "product": "product_2",
+    "date": "1/1/2022"
+  },
+  {
+    "skuid": 21,
+    "product": "product_2",
+    "date": "2/1/2022"
+  },
+  {
+    "skuid": 21,
+    "product": "product_2",
+    "date": "3/1/2022"
+  },
+  {
+    "skuid": 22,
+    "product": "product_2",
+    "date": "1/1/2022"
+  },
+  {
+    "skuid": 22,
+    "product": "product_2",
+    "date": "2/1/2022"
+  },
+  {
+    "skuid": 22,
+    "product": "product_2",
+    "date": "3/1/2022"
+  }
+]

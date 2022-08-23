@@ -104,7 +104,6 @@ app.get("/", (req, res) => {
       callback();
     },
   });
-  console.log(encrypted);
   readStream.pipe(encrypted).pipe(res);
 
   readStream.on("error", function (err) {
